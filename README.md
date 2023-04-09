@@ -1,2 +1,2 @@
-# Alura-Food
+# Alura Food
 SwiftUI course project
